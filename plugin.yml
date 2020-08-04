@@ -1,0 +1,6 @@
+name: nolosse
+main: arclegrandroi\nolosses\Main
+version: 1.0.0
+api: 3.0.0
+author: arclegrandroi
+description: "this pluhin transfer old player data to a new player data when a player changr his username"
